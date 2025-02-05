@@ -2,7 +2,7 @@
 
 A simple and user-friendly website for performing basic arithmetic calculations.  This calculator supports addition, subtraction, multiplication, and division operations.
 
-![Arithmetic Calculator Screenshot](https://user-images.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/YOUR_SCREENSHOT_FILE.png)  *(Replace with an actual screenshot)*
+## **Demo:** [https://calculator-aa048.firebaseapp.com] 🌐
 
 ## Features ✨
 
